@@ -1,10 +1,10 @@
 {
-    "latest_version": "1.1.0",
+    "latest_version": "1.2.0",
     "store_available": false,
-    "donation_change": true,
-    "donation_url": "https://buymeacoffee.com/void02",
+    "donation_change": false,
+    "donation_url": "https://buymeacoffee.com/void01",
     "donation_text": "☕ Buy Me a Coffee",
     "store_url": "https://apps.microsoft.com/detail/9MVFQ4LMZ6C9?hl=en-us&gl=IN&ocid=pdpshare",
-    "direct_download_url": "https://yourname.itch.io/splitkit",
+    "direct_download_url": "https://void032.github.io/SplitKit/",
     "release_notes": "Initial release of SplitKit v1.1.0!"
 }
