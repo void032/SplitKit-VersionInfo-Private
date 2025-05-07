@@ -1,6 +1,11 @@
 {
+    "latest_version": "1.1.0",
+    "store_available": false,
     "donation_change": true,
+    "feedback_api_url": "https://formspree.io/f/xqaqaqno",
     "donation_url": "https://buymeacoffee.com/void1",
     "donation_text": "💖 Support SplitKit!",
-    "feedback_api_url": "https://formspree.io/f/your_new_feedback_endpoint"
+    "store_url": "#",
+    "direct_download_url": "https://void032.github.io/SplitKit/",
+    "release_notes": "Initial release of SplitKit v1.1.0!"
 }
