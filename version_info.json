@@ -1,7 +1,7 @@
 {
     "latest_version": "1.1.0",
     "store_available": false,
-    "donation_change": true,
+    "donation_change": false,
     "feedback_api_url": "https://formspree.io/f/xqaqaqno",
     "donation_url": "https://buymeacoffee.com/void1",
     "donation_text": "💖 Support SplitKit!",
