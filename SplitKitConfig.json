@@ -1,11 +1,11 @@
 {
-    "latest_version": "1.2.0",
+    "latest_version": "1.2.1",
     "store_available": false,
     "donation_change": false,
     "feedback_api_url": "https://formspree.io/f/xqaqaqno",
     "donation_url": "https://buymeacoffee.com/void1",
     "donation_text": "💖 Support SplitKit!",
     "store_url": "#",
-    "direct_download_url": "https://github.com/void032/SplitKit/releases/download/v1.2.0/SplitKit.zip",
+    "direct_download_url": "https://github.com/void032/SplitKit/releases/download/v1.2.1/SplitKit.zip",
     "release_notes": "SplitKit v1.2.0 Notes: - Now features Automatic Updates! - Added a new loading screen for smoother startup. - Performance improvements & bug fixes."
 }
